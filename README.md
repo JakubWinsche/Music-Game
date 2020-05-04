@@ -1,1 +1,1 @@
-If anyone has any questions on how it works, im always happy to discuss, and please keep in mind this was made in year 9, and graded with GSCE standards. There was a time period to code too, so there are loads of mistakes!
+If anyone has any questions on how it works or some improvements that could be made, i'm always happy to discuss them.
